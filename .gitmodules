@@ -1,0 +1,6 @@
+[submodule "hb-one-to-one-uni"]
+	path = hb-one-to-one-uni
+	url = C:/Program Files/Git/hb-one-to-one-uni
+[submodule "hibernate-demo"]
+	path = hibernate-demo
+	url = C:/Program Files/Git/hibernate-demo
